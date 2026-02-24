@@ -1,1 +1,3 @@
-# Manipula-o-de-Dados
+O Instacart é uma plataforma de entrega de supermercado onde os clientes podem fazer pedidos online e receber suas compras em casa, de forma semelhante ao Uber Eats e ao iFood. O conjunto de dados fornecido para este projeto foi modificado a partir do original: seu tamanho foi reduzido para que os cálculos sejam executados mais rapidamente, e foram incluídos valores ausentes e duplicados. As distribuições originais dos dados foram preservadas durante essas alterações.
+
+Neste projeto, preciso completar três etapas. Para cada uma delas, vou escrever uma breve introdução explicando como pretendo conduzir a etapa e justificar minhas decisões ao longo do desenvolvimento, por meio de parágrafos explicativos. Ao final, também apresentarei uma conclusão, resumindo os principais resultados, conclusões e escolhas feitas durante a análise.
